@@ -41,4 +41,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.БазыДанных</catalogs>
 </mdclass:Configuration>
