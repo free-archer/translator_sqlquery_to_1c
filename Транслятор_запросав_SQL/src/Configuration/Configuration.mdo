@@ -42,4 +42,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.БазыДанных</catalogs>
+  <catalogs>Catalog.Методанные1С</catalogs>
 </mdclass:Configuration>
