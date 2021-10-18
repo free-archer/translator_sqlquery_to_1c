@@ -41,6 +41,9 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.СтруктураДанныхСервер</commonModules>
   <catalogs>Catalog.БазыДанных</catalogs>
   <catalogs>Catalog.Методанные1С</catalogs>
+  <catalogs>Catalog.Поля</catalogs>
+  <catalogs>Catalog.Индексы</catalogs>
 </mdclass:Configuration>

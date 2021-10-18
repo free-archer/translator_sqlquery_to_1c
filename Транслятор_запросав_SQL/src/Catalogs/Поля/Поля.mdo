@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ddcb37da-b050-458e-a994-2bf95be8ca06">
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a7769921-46b7-4345-a74e-8dfd1da466ab">
   <producedTypes>
-    <objectType typeId="e35b8d9c-9793-4fb0-82cd-0db46560ef6d" valueTypeId="f3ecfc1b-87c3-415c-9b85-6ad61ba5e177"/>
-    <refType typeId="3fb2f5ca-13f2-48bd-9c27-c9d35a34f692" valueTypeId="25dcaf2b-0401-451f-b89e-ba28506b624a"/>
-    <selectionType typeId="a90c73ef-88d1-4795-a535-c07fcc3c4d6b" valueTypeId="866bb05c-aa79-4cc9-b86e-f06abff7f582"/>
-    <listType typeId="a106a7e0-3dfe-40ea-9420-534e677f37e7" valueTypeId="0017a75c-f505-4c5e-aeba-3771ebcb2c51"/>
-    <managerType typeId="5dfa4809-b691-4dee-888f-1fd907279782" valueTypeId="6cbeb0c6-2e56-46b6-aa43-cf618d93de00"/>
+    <objectType typeId="646c0c72-c8e1-41af-b5dc-123bf46ef99d" valueTypeId="4011452c-aee2-4c8f-a5c6-62337f398c69"/>
+    <refType typeId="f240c8b3-c78f-4380-b245-59b458d97203" valueTypeId="15d01ccd-2daf-48a9-93b5-2c2a341741b0"/>
+    <selectionType typeId="a9dfcfb1-d219-4347-9f6a-4c00dafe14bc" valueTypeId="c8c7766c-a66d-4e1f-9e2d-fd2533ba09be"/>
+    <listType typeId="9f4ec21d-5545-4996-8470-6a475708e23d" valueTypeId="72866232-d2fd-48fa-9c76-12c7707d5485"/>
+    <managerType typeId="2a3f4a75-bcec-4c51-9d68-55c0a0fcabb7" valueTypeId="553a04dc-af87-4d0b-a72a-1eefb7d01d08"/>
   </producedTypes>
-  <name>Методанные1С</name>
+  <name>Поля</name>
   <synonym>
     <key>ru</key>
-    <value>Методанные 1С (объекты)</value>
+    <value>Поля</value>
   </synonym>
-  <comment>Объекты конфигурации</comment>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Методанные1С.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.Методанные1С.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Поля.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Поля.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
   <fullTextSearch>Use</fullTextSearch>
-  <hierarchical>true</hierarchical>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
-  <owners>Catalog.БазыДанных</owners>
+  <owners>Catalog.Методанные1С</owners>
   <codeLength>9</codeLength>
   <descriptionLength>25</descriptionLength>
   <codeType>String</codeType>
@@ -33,7 +31,7 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <attributes uuid="13fc6388-b598-4d9f-b17a-bc344dc072b0">
+  <attributes uuid="095f9c91-c3cc-4897-bf09-d2535647b48e">
     <name>Синоним</name>
     <synonym>
       <key>ru</key>
@@ -51,7 +49,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="10cae27c-e4b6-409b-b779-21095594bfb7">
+  <attributes uuid="649fff7e-c731-4d2b-9b23-aeb4b9e7ced5">
     <name>ИмяХранения</name>
     <synonym>
       <key>ru</key>
