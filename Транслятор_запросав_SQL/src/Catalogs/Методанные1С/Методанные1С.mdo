@@ -10,7 +10,7 @@
   <name>Методанные1С</name>
   <synonym>
     <key>ru</key>
-    <value>Методанные 1С</value>
+    <value>Методанные 1С (объекты)</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Методанные1С.StandardAttribute.Code</inputByString>
