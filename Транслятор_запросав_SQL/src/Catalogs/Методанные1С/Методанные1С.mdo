@@ -12,6 +12,7 @@
     <key>ru</key>
     <value>Методанные 1С (объекты)</value>
   </synonym>
+  <comment>Объекты конфигурации</comment>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Методанные1С.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.Методанные1С.StandardAttribute.Description</inputByString>
