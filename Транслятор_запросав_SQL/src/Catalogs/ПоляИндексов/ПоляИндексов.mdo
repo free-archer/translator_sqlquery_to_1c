@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2031e45e-a3d0-40ab-ab64-5955b0fc8236">
+  <producedTypes>
+    <objectType typeId="019d95bb-c2d5-4e5c-b6fd-a1897e12aa68" valueTypeId="a25d657a-a72e-4329-bf00-acfd14dc53ac"/>
+    <refType typeId="8b63e340-40c4-4bab-b1d5-ba8dca840d54" valueTypeId="d8b0927e-70dd-4918-974a-deb74a86d9a2"/>
+    <selectionType typeId="0531eaf5-1c30-4523-ae2d-bde0dfb5f865" valueTypeId="5a8facc4-9abf-4f55-b9c6-d83a4ce7ccf2"/>
+    <listType typeId="1a894592-7c65-4960-8e5e-e0ac62b9d7d4" valueTypeId="94aa74fa-cc7c-4db1-8e9b-c3b68c6a79aa"/>
+    <managerType typeId="5928e9c8-a22f-485f-9b30-024679990770" valueTypeId="3dcbcc3f-0562-4f82-a238-e60b4c41e6b7"/>
+  </producedTypes>
+  <name>ПоляИндексов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Поля индексов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ПоляИндексов.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <owners>Catalog.Индексы</owners>
+  <descriptionLength>100</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

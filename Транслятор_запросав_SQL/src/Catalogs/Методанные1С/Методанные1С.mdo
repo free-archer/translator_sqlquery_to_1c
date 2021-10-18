@@ -48,15 +48,53 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="10cae27c-e4b6-409b-b779-21095594bfb7">
-    <name>ИмяХранения</name>
+    <name>ИмяТаблицыХранения</name>
     <synonym>
       <key>ru</key>
-      <value>Имя хранения</value>
+      <value>Имя таблицы хранения</value>
     </synonym>
     <type>
       <types>String</types>
       <stringQualifiers>
-        <length>100</length>
+        <length>150</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <indexing>Index</indexing>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="a5133465-c1ca-4083-9e9d-6bc657419f4b">
+    <name>Метаданные</name>
+    <synonym>
+      <key>ru</key>
+      <value>Метаданные</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>200</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <indexing>Index</indexing>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="812e678d-6ed6-45ff-b601-caa26943efab">
+    <name>Назначение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Назначение</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>50</length>
       </stringQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>

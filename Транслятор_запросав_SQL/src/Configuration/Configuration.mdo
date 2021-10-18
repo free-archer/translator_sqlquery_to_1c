@@ -48,4 +48,5 @@
   <catalogs>Catalog.Методанные1С</catalogs>
   <catalogs>Catalog.Поля</catalogs>
   <catalogs>Catalog.Индексы</catalogs>
+  <catalogs>Catalog.ПоляИндексов</catalogs>
 </mdclass:Configuration>
