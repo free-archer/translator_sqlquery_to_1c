@@ -42,8 +42,11 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.СтруктураДанныхСервер</commonModules>
+  <commonModules>CommonModule.РазборЗапросаКлиент</commonModules>
   <commonCommands>CommonCommand.ОткрытьСтруктуру</commonCommands>
+  <commonCommands>CommonCommand.ОткрытьРазборПланаЗапроса</commonCommands>
   <commonForms>CommonForm.Структура</commonForms>
+  <commonForms>CommonForm.РазборПланаЗапроса</commonForms>
   <catalogs>Catalog.БазыДанных</catalogs>
   <catalogs>Catalog.Методанные1С</catalogs>
   <catalogs>Catalog.Поля</catalogs>
