@@ -46,8 +46,10 @@
   <commonModules>CommonModule.РегулярныеВыражения</commonModules>
   <commonCommands>CommonCommand.ОткрытьСтруктуру</commonCommands>
   <commonCommands>CommonCommand.ОткрытьРазборПланаЗапроса</commonCommands>
+  <commonCommands>CommonCommand.ОткрытьРазборЗапроса</commonCommands>
   <commonForms>CommonForm.Структура</commonForms>
   <commonForms>CommonForm.РазборПланаЗапроса</commonForms>
+  <commonForms>CommonForm.РазборЗапроса</commonForms>
   <catalogs>Catalog.БазыДанных</catalogs>
   <catalogs>Catalog.Методанные1С</catalogs>
   <catalogs>Catalog.Поля</catalogs>
