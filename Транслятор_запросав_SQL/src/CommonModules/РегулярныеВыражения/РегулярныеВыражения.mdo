@@ -6,4 +6,5 @@
     <value>Регулярные выражения</value>
   </synonym>
   <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
 </mdclass:CommonModule>
