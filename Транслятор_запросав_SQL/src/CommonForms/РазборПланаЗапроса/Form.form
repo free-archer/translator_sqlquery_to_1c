@@ -86,20 +86,26 @@
       </userVisible>
       <autoFill>true</autoFill>
     </contextMenu>
-    <type>InputField</type>
+    <type>SpreadsheetDocumentField</type>
     <editMode>Enter</editMode>
     <showInHeader>true</showInHeader>
     <headerHorizontalAlign>Left</headerHorizontalAlign>
     <showInFooter>true</showInFooter>
-    <extInfo xsi:type="form:InputFieldExtInfo">
+    <extInfo xsi:type="form:SpreadSheetDocFieldExtInfo">
+      <width>50</width>
+      <height>10</height>
       <autoMaxHeight>true</autoMaxHeight>
       <horizontalStretch>true</horizontalStretch>
       <verticalStretch>true</verticalStretch>
-      <wrap>true</wrap>
-      <multiLine>true</multiLine>
-      <chooseType>true</chooseType>
-      <typeDomainEnabled>true</typeDomainEnabled>
-      <textEdit>true</textEdit>
+      <pointerType>Special</pointerType>
+      <verticalScrollBar>ScrollAuto</verticalScrollBar>
+      <horizontalScrollBar>ScrollAuto</horizontalScrollBar>
+      <selectionShowMode>Always</selectionShowMode>
+      <drawingSelectionShowMode>Auto</drawingSelectionShowMode>
+      <edit>true</edit>
+      <showGroups>true</showGroups>
+      <enableStartDrag>true</enableStartDrag>
+      <enableDrag>true</enableDrag>
     </extInfo>
   </items>
   <items xsi:type="form:Button">
@@ -172,20 +178,26 @@
       </userVisible>
       <autoFill>true</autoFill>
     </contextMenu>
-    <type>InputField</type>
+    <type>SpreadsheetDocumentField</type>
     <editMode>Enter</editMode>
     <showInHeader>true</showInHeader>
     <headerHorizontalAlign>Left</headerHorizontalAlign>
     <showInFooter>true</showInFooter>
-    <extInfo xsi:type="form:InputFieldExtInfo">
+    <extInfo xsi:type="form:SpreadSheetDocFieldExtInfo">
+      <width>50</width>
+      <height>10</height>
       <autoMaxHeight>true</autoMaxHeight>
       <horizontalStretch>true</horizontalStretch>
       <verticalStretch>true</verticalStretch>
-      <wrap>true</wrap>
-      <multiLine>true</multiLine>
-      <chooseType>true</chooseType>
-      <typeDomainEnabled>true</typeDomainEnabled>
-      <textEdit>true</textEdit>
+      <pointerType>Special</pointerType>
+      <verticalScrollBar>ScrollAuto</verticalScrollBar>
+      <horizontalScrollBar>ScrollAuto</horizontalScrollBar>
+      <selectionShowMode>Always</selectionShowMode>
+      <drawingSelectionShowMode>Auto</drawingSelectionShowMode>
+      <edit>true</edit>
+      <showGroups>true</showGroups>
+      <enableStartDrag>true</enableStartDrag>
+      <enableDrag>true</enableDrag>
     </extInfo>
   </items>
   <autoCommandBar>
@@ -216,8 +228,7 @@
     </title>
     <id>1</id>
     <valueType>
-      <types>String</types>
-      <stringQualifiers/>
+      <types>SpreadsheetDocument</types>
     </valueType>
     <view>
       <common>true</common>
@@ -225,9 +236,7 @@
     <edit>
       <common>true</common>
     </edit>
-    <settingsSavedData xsi:type="form:DataPath">
-      <segments>ТекстSQL</segments>
-    </settingsSavedData>
+    <extInfo xsi:type="form:SpreadsheetDocumentExtInfo"/>
   </attributes>
   <attributes>
     <name>Текст1С</name>
@@ -237,8 +246,7 @@
     </title>
     <id>2</id>
     <valueType>
-      <types>String</types>
-      <stringQualifiers/>
+      <types>SpreadsheetDocument</types>
     </valueType>
     <view>
       <common>true</common>
@@ -246,6 +254,7 @@
     <edit>
       <common>true</common>
     </edit>
+    <extInfo xsi:type="form:SpreadsheetDocumentExtInfo"/>
   </attributes>
   <attributes>
     <name>БазаДанных</name>
