@@ -42,7 +42,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.СтруктураДанныхСервер</commonModules>
-  <commonModules>CommonModule.РазборЗапросаКлиент</commonModules>
+  <commonModules>CommonModule.РазборЗапросаСервер</commonModules>
   <commonModules>CommonModule.РегулярныеВыражения</commonModules>
   <commonCommands>CommonCommand.ОткрытьСтруктуру</commonCommands>
   <commonCommands>CommonCommand.ОткрытьРазборПланаЗапроса</commonCommands>
