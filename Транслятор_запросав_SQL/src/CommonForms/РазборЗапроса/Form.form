@@ -224,9 +224,6 @@
     <edit>
       <common>true</common>
     </edit>
-    <settingsSavedData xsi:type="form:DataPath">
-      <segments>ТекстSQL</segments>
-    </settingsSavedData>
   </attributes>
   <attributes>
     <name>Текст1С</name>

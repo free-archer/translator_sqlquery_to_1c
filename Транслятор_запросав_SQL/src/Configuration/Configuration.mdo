@@ -28,6 +28,18 @@
     </functionality>
   </usedMobileApplicationFunctionalities>
   <defaultLanguage>Language.Русский</defaultLanguage>
+  <detailedInformation>
+    <key>ru</key>
+    <value>https://github.com/free-archer/translator_sqlquery_to_1c</value>
+  </detailedInformation>
+  <copyright>
+    <key>ru</key>
+    <value>Беспалов Алексей</value>
+  </copyright>
+  <vendorInformationAddress>
+    <key>ru</key>
+    <value>bespalov.alexey@yandex.ru</value>
+  </vendorInformationAddress>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
@@ -41,6 +53,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonTemplates>CommonTemplate.ОбработкаВыгрузкиСтруктуры</commonTemplates>
   <commonModules>CommonModule.СтруктураДанныхСервер</commonModules>
   <commonModules>CommonModule.РазборЗапросаСервер</commonModules>
   <commonModules>CommonModule.РегулярныеВыражения</commonModules>
