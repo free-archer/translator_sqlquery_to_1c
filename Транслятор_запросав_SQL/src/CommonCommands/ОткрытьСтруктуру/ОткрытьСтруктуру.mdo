@@ -3,7 +3,7 @@
   <name>ОткрытьСтруктуру</name>
   <synonym>
     <key>ru</key>
-    <value>Открыть структуру</value>
+    <value>Структура</value>
   </synonym>
   <group>NavigationPanelImportant</group>
   <commandParameterType/>

@@ -3,7 +3,7 @@
   <name>ОткрытьРазборПланаЗапроса</name>
   <synonym>
     <key>ru</key>
-    <value>Открыть разбор плана запроса</value>
+    <value>Разбор плана запроса</value>
   </synonym>
   <group>NavigationPanelImportant</group>
   <commandParameterType/>

@@ -3,7 +3,7 @@
   <name>ОткрытьРазборЗапроса</name>
   <synonym>
     <key>ru</key>
-    <value>Открыть разбор запроса</value>
+    <value>Разбор запроса</value>
   </synonym>
   <group>NavigationPanelImportant</group>
   <representation>Auto</representation>
