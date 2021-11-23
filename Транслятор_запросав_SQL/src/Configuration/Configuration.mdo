@@ -59,7 +59,7 @@
   <commonModules>CommonModule.СтруктураДанныхСервер</commonModules>
   <commonModules>CommonModule.РазборЗапросаСервер</commonModules>
   <commonModules>CommonModule.РегулярныеВыражения</commonModules>
-  <commonModules>CommonModule.ТехнологическийЖурналСервер</commonModules>
+  <commonModules>CommonModule.ТЖСервер</commonModules>
   <commonCommands>CommonCommand.ОткрытьСтруктуру</commonCommands>
   <commonCommands>CommonCommand.ОткрытьРазборПланаЗапроса</commonCommands>
   <commonCommands>CommonCommand.ОткрытьРазборЗапроса</commonCommands>
@@ -75,7 +75,7 @@
   <catalogs>Catalog.ПоляИндексов</catalogs>
   <catalogs>Catalog.События</catalogs>
   <catalogs>Catalog.Свойства</catalogs>
-  <catalogs>Catalog.Замер</catalogs>
+  <catalogs>Catalog.Замеры</catalogs>
   <reports>Report.АнализЖурнала</reports>
   <informationRegisters>InformationRegister.Журнал</informationRegisters>
   <informationRegisters>InformationRegister.СвойстваСобытия</informationRegisters>

@@ -11,8 +11,8 @@
   <content>Catalog.Свойства</content>
   <content>InformationRegister.Журнал</content>
   <content>InformationRegister.СвойстваСобытия</content>
-  <content>Catalog.Замер</content>
-  <content>CommonModule.ТехнологическийЖурналСервер</content>
+  <content>Catalog.Замеры</content>
+  <content>CommonModule.ТЖСервер</content>
   <content>CommonForm.ТехнологическийЖурнал</content>
   <content>CommonCommand.ОткрытьТехнологическийЖурнал</content>
   <content>Report.АнализЖурнала</content>

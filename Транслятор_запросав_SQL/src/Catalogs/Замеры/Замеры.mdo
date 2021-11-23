@@ -7,14 +7,14 @@
     <listType typeId="cb787e7c-40f5-417a-983e-0b3a2c9ba06b" valueTypeId="9dc85302-59fd-48ef-a920-a633b82c14a5"/>
     <managerType typeId="1c79bc09-440a-4b11-a454-6391b8ff061c" valueTypeId="1f61731d-d658-473b-bda1-57374b789f4a"/>
   </producedTypes>
-  <name>Замер</name>
+  <name>Замеры</name>
   <synonym>
     <key>ru</key>
-    <value>Замер</value>
+    <value>Замеры</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Замер.StandardAttribute.Description</inputByString>
-  <inputByString>Catalog.Замер.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Замеры.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Замеры.StandardAttribute.Code</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
@@ -31,7 +31,7 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <defaultObjectForm>Catalog.Замер.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultObjectForm>Catalog.Замеры.Form.ФормаЭлемента</defaultObjectForm>
   <attributes uuid="d8e3bf6a-c98b-4202-9dc5-4e4352db79dd">
     <name>Описание</name>
     <synonym>
@@ -47,6 +47,22 @@
     <fillValue xsi:type="core:StringValue">
       <value></value>
     </fillValue>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="b43b7a84-ec75-4b54-ad5a-2767ad1db43f">
+    <name>ДатаЛога</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дата лога</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
