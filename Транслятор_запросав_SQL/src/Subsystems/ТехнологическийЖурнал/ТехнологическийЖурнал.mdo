@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0b33cd9e-28ce-4ff5-97ac-0fcb992ddf07">
+  <name>ТехнологическийЖурнал</name>
+  <synonym>
+    <key>ru</key>
+    <value>Технологический журнал</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.События</content>
+  <content>Catalog.Свойства</content>
+  <content>InformationRegister.Журнал</content>
+  <content>InformationRegister.СвойстваСобытия</content>
+  <content>Catalog.Замер</content>
+  <content>CommonModule.ТехнологическийЖурналСервер</content>
+  <content>CommonForm.ТехнологическийЖурнал</content>
+  <content>CommonCommand.ОткрытьТехнологическийЖурнал</content>
+  <content>Report.АнализЖурнала</content>
+</mdclass:Subsystem>

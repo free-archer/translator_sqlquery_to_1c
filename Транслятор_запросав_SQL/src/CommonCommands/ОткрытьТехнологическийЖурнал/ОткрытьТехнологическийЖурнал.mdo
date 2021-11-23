@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="55e14a91-2eb9-458e-b73c-877730ee1535">
+  <name>ОткрытьТехнологическийЖурнал</name>
+  <synonym>
+    <key>ru</key>
+    <value>Технологический журнал</value>
+  </synonym>
+  <group>NavigationPanelImportant</group>
+  <commandParameterType/>
+  <representation>Auto</representation>
+</mdclass:CommonCommand>

@@ -53,19 +53,30 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.СтруктураДанных</subsystems>
+  <subsystems>Subsystem.ТехнологическийЖурнал</subsystems>
   <commonTemplates>CommonTemplate.ОбработкаВыгрузкиСтруктуры</commonTemplates>
   <commonModules>CommonModule.СтруктураДанныхСервер</commonModules>
   <commonModules>CommonModule.РазборЗапросаСервер</commonModules>
   <commonModules>CommonModule.РегулярныеВыражения</commonModules>
+  <commonModules>CommonModule.ТехнологическийЖурналСервер</commonModules>
   <commonCommands>CommonCommand.ОткрытьСтруктуру</commonCommands>
   <commonCommands>CommonCommand.ОткрытьРазборПланаЗапроса</commonCommands>
   <commonCommands>CommonCommand.ОткрытьРазборЗапроса</commonCommands>
+  <commonCommands>CommonCommand.ОткрытьТехнологическийЖурнал</commonCommands>
   <commonForms>CommonForm.Структура</commonForms>
   <commonForms>CommonForm.РазборПланаЗапроса</commonForms>
   <commonForms>CommonForm.РазборЗапроса</commonForms>
+  <commonForms>CommonForm.ТехнологическийЖурнал</commonForms>
   <catalogs>Catalog.БазыДанных</catalogs>
   <catalogs>Catalog.Методанные1С</catalogs>
   <catalogs>Catalog.Поля</catalogs>
   <catalogs>Catalog.Индексы</catalogs>
   <catalogs>Catalog.ПоляИндексов</catalogs>
+  <catalogs>Catalog.События</catalogs>
+  <catalogs>Catalog.Свойства</catalogs>
+  <catalogs>Catalog.Замер</catalogs>
+  <reports>Report.АнализЖурнала</reports>
+  <informationRegisters>InformationRegister.Журнал</informationRegisters>
+  <informationRegisters>InformationRegister.СвойстваСобытия</informationRegisters>
 </mdclass:Configuration>
