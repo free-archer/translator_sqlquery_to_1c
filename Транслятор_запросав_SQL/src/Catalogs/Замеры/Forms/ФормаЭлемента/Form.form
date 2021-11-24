@@ -112,7 +112,7 @@
         <common>true</common>
       </userVisible>
       <dataPath xsi:type="form:DataPath">
-        <segments>Объект.ДатаЛога</segments>
+        <segments>Объект.ДатаФайла</segments>
       </dataPath>
       <extendedTooltip>
         <name>ДатаЛогаРасширеннаяПодсказка</name>

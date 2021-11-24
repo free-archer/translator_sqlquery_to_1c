@@ -51,10 +51,10 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="b43b7a84-ec75-4b54-ad5a-2767ad1db43f">
-    <name>ДатаЛога</name>
+    <name>ДатаФайла</name>
     <synonym>
       <key>ru</key>
-      <value>Дата лога</value>
+      <value>Дата файла</value>
     </synonym>
     <type>
       <types>Date</types>

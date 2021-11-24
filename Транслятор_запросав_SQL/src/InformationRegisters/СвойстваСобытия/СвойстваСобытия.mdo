@@ -68,6 +68,22 @@
       <value></value>
     </fillValue>
   </attributes>
+  <dimensions uuid="3a0600f0-e36c-4a2c-b2db-0e0ff48a63b2">
+    <name>Замер</name>
+    <synonym>
+      <key>ru</key>
+      <value>Замер</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Замеры</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
   <dimensions uuid="91e83324-324b-464b-a4fa-cb1d35a0c725">
     <name>КлючСобытия</name>
     <synonym>
@@ -91,23 +107,6 @@
     </synonym>
     <type>
       <types>CatalogRef.Свойства</types>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-    <fillValue xsi:type="core:UndefinedValue"/>
-    <mainFilter>true</mainFilter>
-  </dimensions>
-  <dimensions uuid="1cc07f4d-0b40-4597-a5f5-a51f2982adbd">
-    <name>ПериодФайла</name>
-    <synonym>
-      <key>ru</key>
-      <value>Период файла</value>
-    </synonym>
-    <type>
-      <types>Date</types>
-      <dateQualifiers/>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
