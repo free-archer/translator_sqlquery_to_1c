@@ -69,6 +69,7 @@
   <commonForms>CommonForm.РазборПланаЗапроса</commonForms>
   <commonForms>CommonForm.РазборЗапроса</commonForms>
   <commonForms>CommonForm.ТехнологическийЖурнал</commonForms>
+  <commonForms>CommonForm.ТехнологическийЖурналТаблица</commonForms>
   <catalogs>Catalog.БазыДанных</catalogs>
   <catalogs>Catalog.Методанные1С</catalogs>
   <catalogs>Catalog.Поля</catalogs>

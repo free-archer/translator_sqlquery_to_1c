@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonForm xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="933e8d0c-2848-4955-b363-8b2f9eaea0d4">
+  <name>ТехнологическийЖурналТаблица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Технологический журнал таблица</value>
+  </synonym>
+  <usePurposes>PersonalComputer</usePurposes>
+  <usePurposes>MobileDevice</usePurposes>
+</mdclass:CommonForm>
