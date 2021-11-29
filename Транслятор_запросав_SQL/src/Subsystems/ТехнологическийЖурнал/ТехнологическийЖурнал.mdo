@@ -16,4 +16,8 @@
   <content>CommonForm.ТехнологическийЖурнал</content>
   <content>CommonCommand.ОткрытьТехнологическийЖурнал</content>
   <content>Report.АнализЖурнала</content>
+  <content>CommonCommand.ОткрытьТЖТаблица</content>
+  <content>CommonForm.ТехнологическийЖурналТаблицаДинамичСписки</content>
+  <content>CommonForm.ТехнологическийЖурналТаблица</content>
+  <content>CommonCommand.ОткрытьТЖДинамичСписко</content>
 </mdclass:Subsystem>

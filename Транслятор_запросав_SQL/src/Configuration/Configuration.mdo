@@ -61,15 +61,19 @@
   <commonModules>CommonModule.РазборЗапросаСервер</commonModules>
   <commonModules>CommonModule.РегулярныеВыражения</commonModules>
   <commonModules>CommonModule.ТЖСервер</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияКлиентСервер</commonModules>
   <commonCommands>CommonCommand.ОткрытьСтруктуру</commonCommands>
   <commonCommands>CommonCommand.ОткрытьРазборПланаЗапроса</commonCommands>
   <commonCommands>CommonCommand.ОткрытьРазборЗапроса</commonCommands>
   <commonCommands>CommonCommand.ОткрытьТехнологическийЖурнал</commonCommands>
+  <commonCommands>CommonCommand.ОткрытьТЖТаблица</commonCommands>
+  <commonCommands>CommonCommand.ОткрытьТЖДинамичСписко</commonCommands>
   <commonForms>CommonForm.Структура</commonForms>
   <commonForms>CommonForm.РазборПланаЗапроса</commonForms>
   <commonForms>CommonForm.РазборЗапроса</commonForms>
   <commonForms>CommonForm.ТехнологическийЖурнал</commonForms>
   <commonForms>CommonForm.ТехнологическийЖурналТаблица</commonForms>
+  <commonForms>CommonForm.ТехнологическийЖурналТаблицаДинамичСписки</commonForms>
   <catalogs>Catalog.БазыДанных</catalogs>
   <catalogs>Catalog.Методанные1С</catalogs>
   <catalogs>Catalog.Поля</catalogs>

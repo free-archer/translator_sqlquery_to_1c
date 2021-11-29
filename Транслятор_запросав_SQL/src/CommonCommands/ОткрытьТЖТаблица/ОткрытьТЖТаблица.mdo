@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="19aba731-8f34-476e-816b-256f77f1b28f">
+  <name>ОткрытьТЖТаблица</name>
+  <synonym>
+    <key>ru</key>
+    <value>ТЖ Таблица</value>
+  </synonym>
+  <group>NavigationPanelImportant</group>
+  <representation>Auto</representation>
+</mdclass:CommonCommand>
