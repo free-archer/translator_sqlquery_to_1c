@@ -53,6 +53,8 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Структура</subsystems>
+  <subsystems>Subsystem.ТрансляторЗапросов</subsystems>
   <commonTemplates>CommonTemplate.ОбработкаВыгрузкиСтруктуры</commonTemplates>
   <commonModules>CommonModule.СтруктураДанныхСервер</commonModules>
   <commonModules>CommonModule.РазборЗапросаСервер</commonModules>
